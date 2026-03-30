@@ -45,7 +45,7 @@ This project implements and compares **five different tokenization strategies** 
 
 2. **Install dependencies** *(standard library only — no pip installs needed):*
 ```bash
-   python --version   # Python 3.8+ recommended
+   python --version   
 ```
 
 3. **Run the demo:**
