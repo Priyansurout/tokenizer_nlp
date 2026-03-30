@@ -43,7 +43,7 @@ This project implements and compares **five different tokenization strategies** 
    cd NLP-tokenizer
 ```
 
-2. **Install dependencies** *(standard library only — no pip installs needed):*
+2. **Install dependencies** 
 ```bash
    python --version   
 ```
